@@ -1,0 +1,8 @@
+Package: deSolve
+Version: 1.40
+Depends: R (>= 3.3.0)
+Imports: methods, graphics, grDevices, stats
+Suggests: scatterplot3d, FME
+License: GPL (>= 2)
+MD5sum: c87ab1e6067fbea2260f69b541858b5c
+NeedsCompilation: yes
